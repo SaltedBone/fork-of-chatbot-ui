@@ -1,4 +1,4 @@
-# Chatbot UI
+# fork of Chatbot UI used as webGPT app
 
 Chatbot UI is an open source chat UI for AI models.
 
